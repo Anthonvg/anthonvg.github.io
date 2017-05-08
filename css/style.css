@@ -266,7 +266,7 @@ text-align: center;
 /*----------Secciones 4-----------*/
 .seccion4{
   display: block;
-  background: url(../img/8.jpg);
+  background: url('../img/8.jpg');
   height: 100%;
   position: relative;
   z-index: 99;
@@ -290,7 +290,7 @@ text-align: center;
 
 header {
 	display: block;
-	background: url(../img/10.jpg);
+	background: url('../img/10.jpg');
 	height: 100%;
 	position: relative;
 	z-index: 999;
